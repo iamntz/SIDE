@@ -1,0 +1,12 @@
+[
+  { "caption": "SIDE Definition", "command": "side_definition", "args": {} },
+  { "caption": "SIDE Show Signature", "command": "side_show_signature", "args": {} },
+
+  { "caption": "SIDE Reference (All Files)", "command": "side_reference", "args": {} },
+  { "caption": "SIDE Reference (Open Files)", "command": "side_reference", "args": {"find_all": false} },
+
+  { "caption": "SIDE Code Action", "command": "side_code_action", "args": {} },
+
+  { "caption": "SIDE Rename (Within a function scope)", "command": "side_rename", "args": {"find_all": false} },
+  { "caption": "SIDE Rename (Within entire file)", "command": "side_rename", "args": {} },
+]
